@@ -7,5 +7,9 @@
 </head>
 <body>
 <h1> GOOD MORNING ! </H1>
+<h1>DiNH XUAN NOI</h1>
+<?php
+ echo "HELLO WORD"
+ ?>
 </body>
 </html>
